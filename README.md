@@ -3,8 +3,8 @@
 I'm a developer learning **Java** and **Python**, working on cool projects like **Villages Reborn** and **OpenGrammer**. I enjoy experimenting with AI, modding Minecraft, and doing whatever.
 
 ## 🚀 Projects  
-- 🏡 **[Villages Reborn](https://github.com/yourusername/VillagesReborn)** – Enhancing Minecraft villages with AI villagers.  
-- 🌐 **[OpenGrammer](https://github.com/yourusername/OpenGrammer)** – A word add-in that is an OSS version of Grammerly  
+- 🏡 **[Villages Reborn](https://github.com/beenycool/VillagesReborn)** – Enhancing Minecraft villages with AI villagers.  
+- 🌐 **[OpenGrammer](https://github.com/beenycool/OpenGrammer)** – A Word add-in that is an OSS version of Grammerly  
 - 🔧 **Other projects...** Always working on something new!
 
 ## 🔧 Tech Stack  
