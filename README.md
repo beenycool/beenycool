@@ -12,7 +12,7 @@ I'm a developer learning **Java** and **Python**, working on cool projects like 
 - 🏗️ Tools: **Fabric API**, **AI models**, **Minecraft modding**  
 
 ## 📫 Connect with Me  
-- GitHub: [yourusername](https://github.com/yourusername)  
+- GitHub: [beenycool](https://github.com/beenycool)  
 - Discord: *xx_beenyburger_xx*  
   
 
