@@ -1,4 +1,4 @@
-# 👋 Hey, I'm Yaseen!
+# 👋 Hey, I'm Beeny!
 
 I'm a developer learning **Java** and **Python**, working on cool projects like **Villages Reborn** and **OpenGrammer**. I enjoy experimenting with AI, modding Minecraft, and doing whatever.
 
